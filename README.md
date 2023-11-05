@@ -9,7 +9,7 @@ after importing the data we have to import the data in the model by read csv fil
 the next step is converting the datas into dataframe
 we furthur feature the data by date and time,rolling window,lag features
 Then we have made surethat there are no missing values,null and nan values and  that is taken care off.
-the datas are all set for training and then moved to testing
+The datas are all set for training and then moved to testing
 after testing the datas are plotted and the output is accquired
 after the output we have to evaluate the model ,various methods are mentioned in the file are used to evalutae the model.
 Thus the model is created.
